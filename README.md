@@ -1,5 +1,5 @@
 # Platzi-Conf
 
-Pagina web diseñada como un modelo para promover un evento mediante una interface creada con ayuda de Bootstrap.
+Página web creada como modelo para promover un evento social. Este proyecto fue desarrollado desde 0 utilizando HTML5, CSS3 y Bootstrap, el cual cuenta con una interfaz responsiva y totalmente interactiva.
 
->Este proyecto esta inspirado en el curso de Bootstrap de Platzi.
+> Proyecto inspirado en el curso de Bootstrap de Platzi.
